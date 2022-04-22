@@ -71,6 +71,10 @@
                     class="flex mx-auto mt-20 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
             </div>
         </section>
+        <button
+            class="inline-block cursor-pointer rounded-md bg-gray-800 px-4 py-3 text-center text-sm font-semibold uppercase text-white transition duration-200 ease-in-out hover:bg-gray-900">Button</button>
+        <input type="radio" name="radio-1" class="radio" checked>
+        <input type="radio" name="radio-1" class="radio">
         <NuxtWelcome />
     </div>
 </template>
